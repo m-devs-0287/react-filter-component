@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Eliel Nunez",
+    "age": 24,
+    "currentJob": "software engineer",
+    "degree": "computer Science"
+  },
+  {
+    "name": "Francheska Fernandez",
+    "age": 28,
+    "currentJob": "Psycologist forensic",
+    "degree": "computer Science"
+  },
+  {
+    "name": "Manuel D. Nunez",
+    "age": 36,
+    "currentJob": "software engineer",
+    "degree": "computer Science"
+  },
+  {
+    "name": "Manuel M. Nunez",
+    "age": 68,
+    "currentJob": " Auto Mechanic",
+    "degree": "Self-taught"
+  },
+  {
+    "name": "Paula D. Almonte",
+    "age": 60,
+    "currentJob": "Backer",
+    "degree": "Self-taught"
+  },
+  {
+    "name": "Raynelda Nunez",
+    "age": 40,
+    "currentJob": "Psycologist",
+    "degree": "Master Degree"
+  },
+  {
+    "name": "Yajaira Nunez",
+    "age": 38,
+    "currentJob": "Layer",
+    "degree": "Degree"
+  }
+]
